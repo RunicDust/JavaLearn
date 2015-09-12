@@ -57,7 +57,7 @@ public class SpiralMatrix {
 
 		}
 		
-// Printing spiral matrix		
+                // Printing spiral matrix		
 		for (int i = 0; i < matr.length; i++) {
 			System.out.println(Arrays.toString(matr[i]));
 		}
